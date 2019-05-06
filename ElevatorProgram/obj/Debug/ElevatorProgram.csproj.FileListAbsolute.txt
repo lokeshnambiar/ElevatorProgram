@@ -1,0 +1,5 @@
+C:\Interview\Companies\Eurofins\CodingAssessment\ElevatorProgram\ElevatorProgram\obj\Debug\ElevatorProgram.csproj.CoreCompileInputs.cache
+C:\Interview\Companies\Eurofins\CodingAssessment\ElevatorProgram\ElevatorProgram\bin\Debug\ElevatorProgram.dll
+C:\Interview\Companies\Eurofins\CodingAssessment\ElevatorProgram\ElevatorProgram\bin\Debug\ElevatorProgram.pdb
+C:\Interview\Companies\Eurofins\CodingAssessment\ElevatorProgram\ElevatorProgram\obj\Debug\ElevatorProgram.dll
+C:\Interview\Companies\Eurofins\CodingAssessment\ElevatorProgram\ElevatorProgram\obj\Debug\ElevatorProgram.pdb
